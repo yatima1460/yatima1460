@@ -4,5 +4,5 @@
 
 🧦 I wear programming socks
 
-[![Yatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatima1460)](https://github.com/yatima1460)
+[![Yatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatima1460)](https://yatima1460.me)
 
