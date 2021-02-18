@@ -6,10 +6,11 @@ Hewwo 👋
 
 🏳️‍⚧️ Pronouns: they/them she/her
 
+Resume: [yatima.santamorena.me](https://yatima.santamorena.me)
 
-This is my personal account, for my work one go here:
+Portfolio: [yatima1460.me](https://yatima1460.me)
 
-https://gitlab.com/yatimaz
+Work: https://gitlab.com/yatimaz
 
-[![Yatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatima1460)](https://yatima1460.me)
+[![Yatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatima1460)](#)
 
