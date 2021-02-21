@@ -6,9 +6,9 @@ Hewwo 👋
 
 🏳️‍⚧️ Pronouns: they/them she/her
 
-Resume: [yatima.santamorena.me](http://yatima.santamorena.me)
+Resume: [yatima.santamorena.me](https://yatima.santamorena.me)
 
-Portfolio: [yatima1460.me](http://yatima1460.me)
+Portfolio: [yatima1460.me](https://yatima1460.me)
 
 Work: https://gitlab.com/yatimaz
 
