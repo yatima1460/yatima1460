@@ -4,7 +4,7 @@ Hewwo 👋
 
 🐋 I’m currently learning Docker!
 
-🏳️‍⚧️ Pronouns: they/them she/her
+🏳️‍⚧️ Pronouns: she/her
 
 Portfolio: [yatima1460.me](https://yatima1460.me)
 
