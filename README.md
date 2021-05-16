@@ -2,7 +2,7 @@ Hewwo 👋
 
 🧦 I wear programming socks
 
-🐋 I’m currently learning Docker!
+🐋 I’m currently learning Docker and ☸ Kubernetes!
 
 🏳️‍⚧️ Pronouns: she/her
 
