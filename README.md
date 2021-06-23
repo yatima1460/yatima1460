@@ -1,10 +1,10 @@
 Hewwo 👋
 
-🧦 I wear programming socks <br>
-🐋 I work with Docker! <br>
+🧦 I wear programming socks
+
+🐋 I work with Docker!
+
 🏳️‍⚧️ Pronouns: she/her
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yatima1460&repo=Windows-Docker-Images)](https://github.com/yatima1460/Windows-Docker-Images)
 
